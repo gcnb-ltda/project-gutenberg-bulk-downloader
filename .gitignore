@@ -1,0 +1,13 @@
+# Project Gutenberg mirrors are intentionally stored outside Git.
+ProjectGutenberg/
+project-gutenberg/
+mirror/
+main/
+generated/
+*.epub
+*.mobi
+*.kindle
+*.zip
+*.txt
+*.html
+!README.md
